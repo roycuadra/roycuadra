@@ -2,14 +2,38 @@
 
 
 
-<h1 align="center" color="red" >Hi 👋, I'm Roy Cuadra</h1>
+<h1 align="center" color="red" >Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height=""
+         width="45" />, I'm Roy Cuadra</h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=821FF7&background=FFFFFF00&center=true&vCenter=true&width=435&lines=2nd+Year+BSIT+Student)](https://git.io/typing-svg)
 
 <h3 align="center">A passionate frontend developer from Surigao del Norte</h3>
 <img align="right"  alt="Coding" width="400" src="https://media.licdn.com/dms/image/C4E12AQErJsYayDutVg/article-cover_image-shrink_600_2000/0/1651835064260?e=2147483647&v=beta&t=PD7NGwk2Vh3xOA9gxf8uUsLsAt-Bvak1Hm3ruoGSxuY">
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=roycua&label=Profile%20views&color=0e75b6&style=flat" alt="roycua" /> </p>
+<div id="badges">
+  <a href="#">
+    <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  </a>
+  
+  <a href="#">
+    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  </a>
+  
+  <a href="#">
+    <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
+  </a>
+  
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=roycua&label=Profile%20views&color=0e75b6&style=flat" alt="roycua" /> </p>
+</div>
+
 
 - 🔭 I’m currently working on **React Js E-commerence**
 
