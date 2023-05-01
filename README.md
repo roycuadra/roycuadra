@@ -41,7 +41,7 @@
 
 - 🌱 I’m currently learning **React js and Next Js**
 
-- 👨‍💻 All of my projects are available at [https://roycporfolio.netlify.app/](https://roycporfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://roy-c.netlify.app/](https://roy-c.netlify.app/)
 
 - 📫 How to reach me **roycuadra16@gmail.com**
 
