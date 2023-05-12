@@ -57,7 +57,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=roycuadra&theme=midnight-purple&show_icons=true)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roycuadra&theme=midnight-purple&" alt="roycua" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=roycuadra&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
 
 
 
