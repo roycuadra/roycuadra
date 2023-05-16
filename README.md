@@ -77,7 +77,7 @@
 [![BEPb's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=roycuadra&theme=github-compact)](https://github.com/roycuadra/github-readme-activity-graph)
 ![](https://github.com/BEPb/BEPb/blob/output/github-contribution-grid-snake.svg)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roycuadra&hide_progress=true&theme=midnight-purple&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roycuadra&layout=pie&theme=midnight-purple&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=roycuadra&theme=midnight-purple&show_icons=true&hide_border=true)
 
