@@ -58,7 +58,7 @@
 </div>
 
 
-- 🔭 I’m currently working on **React Js E-commerence**
+- 🔭 I’m currently working on few **React Js** Projects
 
 - 🌱 I’m currently learning **React js and Next Js**
 
