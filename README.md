@@ -6,8 +6,9 @@
          alt="Waving hand animated gif"
          height=""
          width="45" />, I'm Roy Cuadra</h1>
+         
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jost&size=25&duration=3000&pause=500&color=007EFF&width=435&lines=Thank+you+for+visiting+;Welcome+to+my+Profile;Electronics+Enthusiast;Programmer;3rd+Year+-+BSIT+student)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=821FF7&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Thank+You+For+Visiting)](https://git.io/typing-svg)
 
 <h3 align="center">An Aspiring Software Developer</h3>
 <img align="right"  alt="Coding" width="400" src="https://media.licdn.com/dms/image/C4E12AQErJsYayDutVg/article-cover_image-shrink_600_2000/0/1651835064260?e=2147483647&v=beta&t=PD7NGwk2Vh3xOA9gxf8uUsLsAt-Bvak1Hm3ruoGSxuY">
@@ -58,24 +59,15 @@
 </div>
 
 
-- 🔭 I’m currently working on few **React Js** Projects
-
-- 🌱 I’m currently learning **React js and Next Js**
-
-- 👨‍💻 All of my projects are available at [https://roy-c.netlify.app/](https://roy-c.netlify.app/)
-
-- 📫 How to reach me **roycuadra16@gmail.com**
+- 🔭 I’m currently working on few **Cloud IoT** Projects
+- 👨‍💻 I'm currently Learning **Software Development**
+- 👨‍💻 You can Visit my Porfolio at [Roy C Porfolio](https://roy-c.vercel.app/)
 
 
 <h3 align="left">Languages and Tools:</h3>
 
 
-
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
-
-### 📈 GitHub Activity Graph:
-[![BEPb's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=roycuadra&theme=github-compact)](https://github.com/roycuadra/github-readme-activity-graph)
-![](https://github.com/BEPb/BEPb/blob/output/github-contribution-grid-snake.svg)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roycuadra&layout=pie&theme=midnight-purple&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
