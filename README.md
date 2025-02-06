@@ -47,10 +47,9 @@
 - 👨‍💻 You can Visit my Porfolio at [Roy C Porfolio](https://roy-c.vercel.app/)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roycuadra&layout=pie&theme=midnight-purple&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=roycuadra&theme=midnight-purple&show_icons=true&hide_border=true)
-
+| Top Languages | GitHub Stats |
+|--------------|-------------|
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roycuadra&layout=pie&theme=midnight-purple&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=roycuadra&theme=midnight-purple&show_icons=true&hide_border=true) |
 
 
 
