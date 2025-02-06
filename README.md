@@ -47,8 +47,8 @@
 </div>
 
 
-- 🔭 I’m currently working on few **Cloud IoT** Projects
-- 👨‍💻 I'm currently Learning **Software Development**
+- 🔭 I’m currently working on few **IoT Projects** 
+- 👨‍💻 I'm currently Learning **IoT Development**
 - 👨‍💻 You can Visit my Porfolio at [Roy C Porfolio](https://roy-c.vercel.app/)
 
 
