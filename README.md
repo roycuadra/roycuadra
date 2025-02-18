@@ -22,7 +22,7 @@
 <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></a>
 
 
-- 🔭 I’m currently a **3rd yr BSIT Student** 
+- 🔭 I’m currently a **3rd yr BS Information Technology Student** 
 - 👨‍💻 I'm currently Learning **IoT Development,Ethical Hacking,Software Development,Web Development**
 - 👨‍💻 You can Visit my Porfolio at [My Porfolio](https://roy-c.vercel.app/)
 
