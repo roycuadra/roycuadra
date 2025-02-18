@@ -23,7 +23,7 @@
 
 
 - 🔭 I’m currently a **3rd yr BSIT Student** 
-- 👨‍💻 I'm currently Learning **IoT Development**
+- 👨‍💻 I'm currently Learning **IoT Development,Ethical Hacking,Software Development,Web Development**
 - 👨‍💻 You can Visit my Porfolio at [My Porfolio](https://roy-c.vercel.app/)
 
 
