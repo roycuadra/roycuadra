@@ -28,7 +28,7 @@
 
 ### 🔹 Other Skills: 
 - Cellphone Repair Technician
-- Deskstop & Laptop Repair Technician
+- Desktop & Laptop Repair Technician
 - Solar Installation
 
 ## 📊 GitHub Stats
