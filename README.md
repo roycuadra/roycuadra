@@ -27,9 +27,9 @@
 - 👨‍💻 You can Visit my Porfolio at [My Porfolio](https://roy-c.vercel.app/)
 
 ### 🔹 Other Skills: 
-- Cellphone Repair Technician
-- Desktop & Laptop Repair Technician
-- Solar Installation
+- 📱 Cellphone Repair Technician
+- 💻 Desktop & Laptop Repair Technician
+- ☀️ Solar Installation
 
 ## 📊 GitHub Stats
 | Top Languages | GitHub Stats |
