@@ -26,7 +26,10 @@
 - 👨‍💻 I'm currently Learning **IoT Development,Ethical Hacking,Software Development,Web Development**
 - 👨‍💻 You can Visit my Porfolio at [My Porfolio](https://roy-c.vercel.app/)
 
-
+### 🔹 Other Skills: 
+- Cellphone Repair Technician
+- Deskstop & Laptop Repair Technician
+- Solar Installation
 
 ## 📊 GitHub Stats
 | Top Languages | GitHub Stats |
