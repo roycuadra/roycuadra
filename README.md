@@ -18,7 +18,6 @@
 <a href="#"><img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></a>
 
-- 🔭 I’m currently a **3rd yr BS Information Technology Student** 
 - 👨‍💻 I'm currently Learning **IoT Development,Ethical Hacking,Software Development,Web Development**
 - 👨‍💻 You can Visit my Porfolio at [My Porfolio](https://my-porfolio-main-roycuas-projects.vercel.app/)
 
