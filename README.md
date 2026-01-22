@@ -1,4 +1,29 @@
+<div align="center">
 
+# 👋 Welcome to My GitHub Profile
+
+<img src="https://komarev.com/ghpvc/?username=roycuadra&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="profile views" />
+
+### 🔧 Hardware Enthusiast | 🌱 Continuous Learner
+
+[Portfolio](https://my-porfolio-main-roycuas-projects.vercel.app/) • [LinkedIn](#) • [Email](#)
+
+</div>
+
+---
+
+## About Me
+
+I'm a passionate developer with a unique blend of software and hardware expertise. Currently expanding my skills in IoT Development, Ethical Hacking, and modern Web Development. When I'm not coding, you'll find me troubleshooting hardware or working on sustainable energy solutions.
+
+```typescript
+const royCuadra = {
+    code: ["JavaScript", "Python", "PHP", "C++"],
+    interests: ["IoT", "Web Development", "Cybersecurity", "Hardware"],
+    currentlyLearning: ["IoT Development", "Ethical Hacking", "React Ecosystem"],
+    funFact: "I can fix your code AND your phone! 📱💻"
+};
+```
 
 
 ### Programming Languages & Frameworks
@@ -18,22 +43,28 @@
 <a href="#"><img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></a>
 
--  I'm currently Learning **IoT Development,Ethical Hacking,Software Development,Web Development**
--  You can Visit my Porfolio at [My Porfolio](https://my-porfolio-main-roycuas-projects.vercel.app/)
+---
 
-### Other Skills: 
-- Cellphone Repair Technician
-- Desktop & Laptop Repair Technician
-- Solar Installation
+## Additional Expertise
 
-## GitHub Stats
-| Top Languages | GitHub Stats |
-|--------------|-------------|
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roycuadra&layout=pie&theme=midnight-purple&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=roycuadra&theme=midnight-purple&show_icons=true&hide_border=true) |
+Beyond software development, I bring hands-on technical skills:
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=roycuadra&label=Profile%20views&color=0e75b6&style=flat" alt="roycua" /> </p>
+- **Cellphone Repair Technician** - Diagnostics & component-level repairs
+- **Desktop & Laptop Repair** - Hardware troubleshooting & upgrades
+- **Solar Installation** - Sustainable energy solutions
+
+---
+
+## GitHub Statistics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=roycuadra&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roycuadra&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+
 </div>
 
+---
 
 
 
