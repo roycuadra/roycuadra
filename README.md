@@ -4,9 +4,9 @@
 
 <img src="https://komarev.com/ghpvc/?username=roycuadra&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="profile views" />
 
-### 🔧 Hardware Enthusiast | 🌱 Continuous Learner
 
-[Portfolio](https://my-porfolio-main-roycuas-projects.vercel.app/) • [LinkedIn](#) • [Email](#)
+
+[Portfolio](https://my-porfolio-main-roycuas-projects.vercel.app/) • [LinkedIn](#) • [Email](roycuadra16@gmail.com)
 
 </div>
 
@@ -54,19 +54,6 @@ Beyond software development, I bring hands-on technical skills:
 - **Solar Installation** - Sustainable energy solutions
 
 ---
-
-## GitHub Statistics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=roycuadra&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roycuadra&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-
 
 
 
