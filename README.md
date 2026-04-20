@@ -14,7 +14,7 @@
 
 ## About Me
 
-I'm a passionate developer with a unique blend of software and hardware expertise. I hold a **Bachelor of Science in Information Technology** and continue expanding my skills in IoT Development, Ethical Hacking, and modern Web Development.
+I'm a passionate developer with a unique blend of software and hardware expertise. I earned a **Bachelor of Science in Information Technology** and continue expanding my skills in IoT Development, Ethical Hacking, and modern Web Development.
 
 I use this GitHub mainly for hobby projects and open-source contributions, aiming to build useful tools and help others learn and grow.
 
