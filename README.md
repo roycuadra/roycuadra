@@ -19,7 +19,7 @@ I'm a passionate developer with a unique blend of software and hardware expertis
 I use this GitHub mainly for hobby projects and open-source contributions, aiming to build useful tools and help others learn and grow.
 
 I also create content on TikTok where I share my projects to give ideas to viewers and spark their creativity.  
-[![TikTok](https://img.shields.io/badge/TikTok-Follow-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@yourusername)
+[![TikTok](https://img.shields.io/badge/TikTok-Follow-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@qubits24?_r=1&_t=ZS-95gdpkHcDET)
 
 When I'm not coding, you'll find me troubleshooting hardware or working on sustainable energy solutions.
 
