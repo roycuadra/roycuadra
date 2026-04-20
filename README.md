@@ -6,7 +6,13 @@
 
 
 
-[Portfolio](https://website-status-mu.vercel.app/) • [LinkedIn](#) • [Email](roycuadra16@gmail.com)
+<div class="links">
+  <a href="https://website-status-mu.vercel.app/" target="_blank">Portfolio</a>
+  <span>•</span>
+  <a href="#">LinkedIn</a>
+  <span>•</span>
+  <a href="mailto:roycuadra16@gmail.com?subject=Project%20Inquiry">Email</a>
+</div>
 
 </div>
 
