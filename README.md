@@ -6,7 +6,7 @@
 
 
 
-[Portfolio](https://my-porfolio-main-roycuas-projects.vercel.app/) • [LinkedIn](#) • [Email](roycuadra16@gmail.com)
+[Portfolio](https://website-status-mu.vercel.app/) • [LinkedIn](#) • [Email](roycuadra16@gmail.com)
 
 </div>
 
